@@ -1,6 +1,8 @@
 *
 !*.gitignore
 !icon.*
+!Screenshots
+!Screenshots/*
 !*.rc
 !*.cu
 !*.cpp

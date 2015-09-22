@@ -20,11 +20,11 @@
  
 	Space			-	toggle screen blanking
 	
-	P			-	pause
+	P				-	pause
 	
 	LCTRL			-	toggle attraction/repulsion
 	
-	ESC			-	quit
+	ESC				-	quit
 	
 	1 mouse button		-	weak attraction/repulsion
 	

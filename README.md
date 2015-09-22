@@ -18,17 +18,17 @@
 
  Commands:
  
-	Space			      -	toggle screen blanking
+	Space			-	toggle screen blanking
 	
-	P				        -	pause
+	P			-	pause
 	
-	LCTRL			      -	toggle attraction/repulsion
+	LCTRL			-	toggle attraction/repulsion
 	
-	ESC				      -	quit
+	ESC			-	quit
 	
-	1 mouse button	-	weak attraction/repulsion
+	1 mouse button		-	weak attraction/repulsion
 	
-	2 mouse buttons	-	strong attracton/repulsion
+	2 mouse buttons		-	strong attracton/repulsion
 	
 	
 

@@ -55,7 +55,7 @@
 //
 //#define NEIGHBORHOOD_MATRIX
 
-#define SCREEN_WRAP
+//#define SCREEN_WRAP
 
 // ---- Integer defines ----
 

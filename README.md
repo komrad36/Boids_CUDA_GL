@@ -26,9 +26,9 @@
 	
 	ESC				-	quit
 	
-	1 mouse button		-	weak attraction/repulsion
+	1 mouse button	-	weak attraction/repulsion
 	
-	2 mouse buttons		-	strong attracton/repulsion
+	2 mouse buttons	-	strong attracton/repulsion
 	
 	
 

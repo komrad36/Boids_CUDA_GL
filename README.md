@@ -1,3 +1,5 @@
+# Boids_CUDA_GL
+
  Please see screenshot examples in master branch 'Screenshots' folder!
  
  Boids_CUDA_GL simulates bird ("boid"), fish, crowd, etc. flocking behavior,

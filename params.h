@@ -55,7 +55,7 @@
 //
 //#define NEIGHBORHOOD_MATRIX
 
-//#define SCREEN_WRAP
+#define SCREEN_WRAP
 
 // ---- Integer defines ----
 
@@ -75,7 +75,7 @@
 
 // number of frames into the past to track with a moving average
 // for determination of physics delta-t's
-#define		NUM_FRAMES_TO_AVERAGE					(10)
+#define		NUM_FRAMES_TO_AVERAGE					(6)
 
 
 // how often to print current FPS to console, or comment out altogether to disable
